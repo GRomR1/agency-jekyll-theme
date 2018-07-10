@@ -1,46 +1,41 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://s3t.w2w2.top
+# baseurl:
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Smart Technologies
+email: gromrx1@gmail.com
+description: "Разработка и внедрение современных технологий IoT с учетом требований бизнес-среды, городской инфрацструктуры и концепций бережливого производства."
 
+site_url: w2w2.top
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Алексей Кычкин
   pic: 1
-  position: Lead Designer
+  position: Эксперт по науке
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
+    - title: at
       url: #
 
-- name: Larry Parker
+
+- name: Руслан Гайнанов
   pic: 2
-  position: Lead Marketer
+  position: Лидер и эксперт по IT
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: vk
+      url: https://vk.com/gainanovrus
+    - title: at
+      url: mailto://ruslan.r.gainanov@gmail.com
     - title: linkedin
+      url: https://www.linkedin.com/in/gainanovrus
+
+- name: Александр Чудинов
+  pic: 3
+  position: Человек-Программист
+  social:
+    - title: at
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +45,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll

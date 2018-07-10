@@ -1,0 +1,14 @@
+---
+title: Серверная
+subtitle: Мониторинг серверного оборудования
+layout: default
+modal-id: 1
+date: 2016-07-16
+img: servers.png
+thumbnail: servers-thumbnail.png
+alt: image-alt
+project-date: Июнь 2016
+client: ПНИПУ
+description: Разработка системы мониторинга климатических параметров, превентивной диагностики неисправностей оборудования и оповещения об аварийных ситуациях.
+
+---
