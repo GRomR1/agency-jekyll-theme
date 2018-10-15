@@ -64,3 +64,8 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+# Reading Files
+include:
+  - _redirects
